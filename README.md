@@ -4,17 +4,15 @@
 
 <p>
   
-Hi 👋, I am **Sem D** an enthusiastic and ambitious front end developer. I am a Fullstack Developer with a knowledge with a fast amount of coding languages. I love to network, join new communities and add value ✨
+Hi 👋, I am **Sem D.** an enthusiastic and ambitious developer. I am a Fullstack Developer with a knowledge with a fast amount of coding languages. I love to network, join new communities and add value ✨
 
 <div>
 <details>
   <summary>🧑 More about me</summary>
 
-- 🔭 I’m currently on a journey to build **great** things
+- 🔭 I’m currently studying **Software Development**
 
 - 🌱 I’m currently learning **everything** 🤓
-
-- 🤝 I’m looking for help with **finding projects to contribute to!**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/semdyk)
 

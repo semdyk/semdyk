@@ -27,7 +27,7 @@ Hi 👋, I am **Sem D.** an enthusiastic and ambitious developer. I am a Fullsta
 <p align="left">
  <a href="https://github.com/semdyk/etch-a-sketch"><img width="30%" height src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=semdyk&repo=portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="etch-a-sketch"></a>
  <a href="https://github.com/semdyk/todo-list"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=semdyk&repo=GymGrind&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="todo-list"></a>
- <a href="https://github.com/semdyk/memory-card"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=semdyk&repo=memory-card&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="memory-card"></a>
+ <a href="https://github.com/semdyk/memory-card"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=semdyk&repo=Kcal&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="memory-card"></a>
 </p>
 
 <p align="center">

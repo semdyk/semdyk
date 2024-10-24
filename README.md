@@ -28,6 +28,8 @@ Hi 👋, I am **Sem D.** an enthusiastic and ambitious developer. I am a Fullsta
   <img src="https://github-readme-stats.vercel.app/api?username=semdyk&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=semdyk&theme=vue-dark&hide_border=true" height="150" alt="languages graph"  />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semdyk&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
 ###
